@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Atividade01</string>
+    <string name="login_email">Email</string>
+    <string name="login_senha">Senha</string>
+    <string name="login_senha2">Repita a senha</string>
+    <string name="login_txt">Login</string>
+    <string name="cadastrar_txt">Cadastrar</string>
+    <string name="cadastro_txt">Cadastro</string>
+    <string name="bemvindo_txt">Seja bem vindo</string>
+    <string name="acessar_txt">Acessar</string>
+    <string name="logo_description">Logo Uninassau</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="vazio"></string>
+</resources>
